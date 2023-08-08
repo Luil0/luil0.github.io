@@ -2,8 +2,9 @@ body {
     background-color: rgb(145, 167, 188);
     color: black;
     margin: 0 auto;
-    width: 950px;
+    width: 800px;
     font-family: Arial, sans-serif;
+    
     
 
 
@@ -58,5 +59,7 @@ header{
     margin-top: 25%;
 }
 
-
+.bio {
+    text-align: center;
+}
 
