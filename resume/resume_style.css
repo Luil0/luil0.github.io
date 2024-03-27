@@ -14,7 +14,7 @@ body {
     background-color: darkgrey;
     align-items: center;
     padding: 5px;
-    margin-top: 33px;
+    margin-top: 37px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     justify-content: center;
@@ -24,8 +24,10 @@ body {
 
 
 .top img {
-    border-radius: 118px;
-    padding: 14px; 
+    border-radius: 100px;
+    padding: 20px;
+    object-fit: cover;
+
     
 }
 
